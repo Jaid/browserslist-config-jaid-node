@@ -4,7 +4,7 @@
  * Exports a Browserslist query
  * @type {string[]}
  */
-export default [
+module.exports = [
   "node >= 10",
   "not dead",
 ]
