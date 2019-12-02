@@ -3,6 +3,15 @@
 
 My Browserslist query targeting the latest NodeJS runtimes.
 
+## Installation
+<a href='https://npmjs.com/package/browserslist-config-jaid-node'><img alt='npm logo' src='https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png' height=16/></a>
+```bash
+npm install --save browserslist-config-jaid-node@^
+```
+<a href='https://yarnpkg.com/package/browserslist-config-jaid-node'><img alt='Yarn logo' src='https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-full.png' height=24/></a>
+```bash
+yarn add browserslist-config-jaid-node@^
+```
 
 
 ## Try it out
