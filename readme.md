@@ -1,31 +1,68 @@
 # browserslist-config-jaid-node
 
 
-My Browserslist query targeting the latest NodeJS runtimes.
+<a href="https://raw.githubusercontent.com/Jaid/browserslist-config-jaid-node/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/browserslist-config-jaid-node?style=flat-square" alt="License"/></a>  
+<a href="https://actions-badge.atrox.dev/Jaid/browserslist-config-jaid-node/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fbrowserslist-config-jaid-node%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-node/commits"><img src="https://img.shields.io/github/commits-since/Jaid/browserslist-config-jaid-node/v2.2.2?style=flat-square&logo=github" alt="Commits since v2.2.2"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-node/commits"><img src="https://img.shields.io/github/last-commit/Jaid/browserslist-config-jaid-node?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-node/issues"><img src="https://img.shields.io/github/issues/Jaid/browserslist-config-jaid-node?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/browserslist-config-jaid-node"><img src="https://img.shields.io/npm/v/browserslist-config-jaid-node?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-node/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/browserslist-config-jaid-node?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/browserslist-config-jaid-node"><img src="https://img.shields.io/npm/dm/browserslist-config-jaid-node?style=flat-square&logo=npm" alt="Downloads"/></a>
+
+**My Browserslist query targeting the latest NodeJS runtimes.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Installation
-<a href='https://npmjs.com/package/browserslist-config-jaid-node'><img alt='npm logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/npm.png'/></a>
+<a href="https://npmjs.com/package/browserslist-config-jaid-node"><img src="https://img.shields.io/badge/npm-browserslist--config--jaid--node-C23039?style=flat-square&logo=npm" alt="browserslist-config-jaid-node on npm"/></a>
 ```bash
 npm install --save browserslist-config-jaid-node@^2.2.2
 ```
-<a href='https://yarnpkg.com/package/browserslist-config-jaid-node'><img alt='Yarn logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/yarn.png'/></a>
+<a href="https://yarnpkg.com/package/browserslist-config-jaid-node"><img src="https://img.shields.io/badge/Yarn-browserslist--config--jaid--node-2F8CB7?style=flat-square&logo=yarn&logoColor=white" alt="browserslist-config-jaid-node on Yarn"/></a>
 ```bash
 yarn add browserslist-config-jaid-node@^2.2.2
 ```
 
 
 
-## Documentation
-Exports a Browserslist query
 
-**Kind**: Exported member  
+
+
+
+
+## Development
+
+
+
+Setting up:
+```bash
+git clone git@github.com:Jaid/browserslist-config-jaid-node.git
+cd browserslist-config-jaid-node
+npm install
+```
+Testing:
+```bash
+npm run test:dev
+```
+Testing in production environment:
+```bash
+npm run test
+```
 
 
 ## License
 ```text
 MIT License
 
-Copyright © 2019, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
+Copyright © 2020, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
