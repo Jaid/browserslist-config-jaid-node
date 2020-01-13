@@ -28,5 +28,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "browserslist-config-jaid-node",
-  "description": "My Browserslist query targeting the latest NodeJS runtimes."
+  "description": "My Browserslist query targeting the latest NodeJS runtimes.",
+  "funding": "https://github.com/sponsors/jaid"
 }
