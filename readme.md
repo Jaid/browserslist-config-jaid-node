@@ -1,9 +1,9 @@
 # browserslist-config-jaid-node
 
 
-<a href="https://raw.githubusercontent.com/Jaid/browserslist-config-jaid-node/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/browserslist-config-jaid-node?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/browserslist-config-jaid-node/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fbrowserslist-config-jaid-node%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-node/commits"><img src="https://img.shields.io/github/commits-since/Jaid/browserslist-config-jaid-node/v2.2.2?style=flat-square&logo=github" alt="Commits since v2.2.2"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-node/commits"><img src="https://img.shields.io/github/last-commit/Jaid/browserslist-config-jaid-node?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-node/issues"><img src="https://img.shields.io/github/issues/Jaid/browserslist-config-jaid-node?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/browserslist-config-jaid-node"><img src="https://img.shields.io/npm/v/browserslist-config-jaid-node?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-node/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/browserslist-config-jaid-node?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/browserslist-config-jaid-node"><img src="https://img.shields.io/npm/dm/browserslist-config-jaid-node?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/browserslist-config-jaid-node/master/license.txt"><img src="https://img.shields.io/github/license/jaid/browserslist-config-jaid-node?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor browserslist-config-jaid-node"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/browserslist-config-jaid-node/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fbrowserslist-config-jaid-node%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/browserslist-config-jaid-node/commits"><img src="https://img.shields.io/github/commits-since/jaid/browserslist-config-jaid-node/v2.2.2?style=flat-square&logo=github" alt="Commits since v2.2.2"/></a> <a href="https://github.com/jaid/browserslist-config-jaid-node/commits"><img src="https://img.shields.io/github/last-commit/jaid/browserslist-config-jaid-node?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/browserslist-config-jaid-node/issues"><img src="https://img.shields.io/github/issues/jaid/browserslist-config-jaid-node?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/browserslist-config-jaid-node"><img src="https://img.shields.io/npm/v/browserslist-config-jaid-node?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/browserslist-config-jaid-node/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/browserslist-config-jaid-node?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/browserslist-config-jaid-node"><img src="https://img.shields.io/npm/dm/browserslist-config-jaid-node?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **My Browserslist query targeting the latest NodeJS runtimes.**
 
@@ -37,14 +37,13 @@ yarn add browserslist-config-jaid-node@^2.2.2
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/browserslist-config-jaid-node.git
+git clone git@github.com:jaid/browserslist-config-jaid-node.git
 cd browserslist-config-jaid-node
 npm install
 ```
