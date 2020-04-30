@@ -35,5 +35,10 @@
     "url": "https://github.com/jaid/browserslist-config-jaid-node"
   },
   "homepage": "https://github.com/Jaid/browserslist-config-jaid-node",
-  "keywords": []
+  "keywords": [
+    "browserslist",
+    "browserslist-config",
+    "browserslist-custom",
+    "browserslist-shareable-config"
+  ]
 }
