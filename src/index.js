@@ -5,6 +5,6 @@
  * @type {string[]}
  */
 module.exports = [
-  "node >= 10",
+  "node >= 12",
   "not dead",
 ]
